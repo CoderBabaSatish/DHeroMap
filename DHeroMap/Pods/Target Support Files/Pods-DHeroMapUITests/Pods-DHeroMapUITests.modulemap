@@ -1,0 +1,6 @@
+framework module Pods_DHeroMapUITests {
+  umbrella header "Pods-DHeroMapUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
